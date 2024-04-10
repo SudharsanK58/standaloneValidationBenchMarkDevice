@@ -135,10 +135,10 @@ void loop() {
         } else {
           TOF_distance = (TOF_data[j + 8]) | (TOF_data[j + 9] << 8) | (TOF_data[j + 10] << 16);
           float distance_feet = TOF_distance * 0.00328084;
-          Serial.print("TOF distance is: ");
-          Serial.print(distance_feet, 2); // Print with 2 decimal places
-          Serial.println(" feet");
-          Serial.println(""); 
+          // Serial.print("TOF distance is: ");
+          // Serial.print(distance_feet, 2); // Print with 2 decimal places
+          // Serial.println(" feet");
+          // Serial.println(""); 
           
           // Check if distance is below 1 foot
           if (distance_feet < 2) {
