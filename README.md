@@ -44,3 +44,31 @@ Your challenge is to develop a simple wireless device that allows users to trigg
 # Project Documentation
 ---
 ![alt text](image.png)
+
+# Project Title
+
+Short description of the project.
+
+## Hardware
+
+- ESP32 module for button interface and WiFi communication
+- (PCB components are not yet decided)
+
+## Backend Development
+
+- **Programming Language:** Python
+- **Web Framework:** FastAPI
+- **Containerization:** Docker
+
+## Server
+
+- **Hosting Platform:** AWS (Amazon Web Services) EC2 instance
+
+## Frontend Development (Dashboard Panel)
+
+- **JavaScript Framework:** React.js
+- **Hosting Platform:** GoDaddy cPanel (for hosting the panel)
+
+## Communication
+
+- RESTful APIs for communication between the ESP32 module, server, and dashboard panel
