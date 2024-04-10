@@ -62,6 +62,10 @@ Your challenge is to develop a simple wireless device that allows users to trigg
 
 - **Hosting Platform:** AWS (Amazon Web Services) EC2 instance
 
+## Database
+
+- **Database:** MongoDB
+
 ## Frontend Development (Dashboard Panel)
 
 - **JavaScript Framework:** React.js
@@ -69,4 +73,4 @@ Your challenge is to develop a simple wireless device that allows users to trigg
 
 ## Communication
 
-- RESTful APIs for communication between the ESP32 module, server, and dashboard panel
+- RESTful APIs for communication between the ESP32 module, MongoDB, server, and dashboard panel
