@@ -42,12 +42,10 @@ Your challenge is to develop a simple wireless device that allows users to trigg
 - Update README.md with instructions for setting up and running the project locally, detailing the project overview, technical stack used, installation instructions, images of prototype and other relevant information.
 
 # Project Documentation
----
+
+# Flow chart
+
 ![alt text](image.png)
-
-# Project Title
-
-Short description of the project.
 
 ## Hardware
 
